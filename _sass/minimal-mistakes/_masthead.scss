@@ -23,7 +23,7 @@
     -webkit-box-pack: justify;
     -ms-flex-pack: justify;
     justify-content: space-between;
-    font-family: $sans-serif-narrow;
+    font-family: $masthead-font-family;
 
     @include breakpoint($x-large) {
       max-width: $max-width;
@@ -40,7 +40,8 @@
 }
 
 .site-logo img {
-  max-height: 2rem;
+  height: 75px;
+  width: 75px;
 }
 
 .site-title {

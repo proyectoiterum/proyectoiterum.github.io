@@ -1,6 +1,6 @@
 ---
 layout: single
-category: receta 
+category: Recetas
 ---
 
 # Básico

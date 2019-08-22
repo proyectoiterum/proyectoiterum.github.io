@@ -1,6 +1,6 @@
 ---
 layout: single
-category: fundamentos 
+category: Fundamentos 
 ---
 
 # ¿Qué es?
