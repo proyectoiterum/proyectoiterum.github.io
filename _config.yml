@@ -19,7 +19,7 @@ title                    : "Proyecto Iterum"
 title_separator          : "-"
 name                     : #"Your Name"
 description              : # "Pan."
-url                      : #"https://www.proyectoiterum.com" # FIXME: DESCOMENTAR PARA COMMITEAR. the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://www.proyectoiterum.com" # FIXME: DESCOMENTAR PARA COMMITEAR. the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/teaser.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -135,13 +135,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: https://twitter.com/eye_of_thundera
+      # url: https://twitter.com/eye_of_thundera
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url:
+      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      #url:
+      # url:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -150,7 +150,10 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url:
+      url: https://www.instagram.com/proyecto.iterum/
+    - label: "Mail"
+      icon: "fa fa-envelope"
+      mail: proyecto.iterum@gmail.com
 
 
 # Reading Files
@@ -288,5 +291,5 @@ defaults:
       author_profile: false
       read_time: true
       comments: false
-      share: true
+      share: false
       related: false

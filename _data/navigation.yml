@@ -1,10 +1,8 @@
 # main links
 main:
    - title: "Artículos"
-     url: /year-archive/
+     url: /categories/
    - title: "Recetas"
      url: /recetas/
-   - title: "Contacto"
-     url: /contacto/
   # - title: "Sitemap"
   #   url: /sitemap/
