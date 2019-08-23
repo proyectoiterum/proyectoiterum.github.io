@@ -42,6 +42,7 @@ El pan de masa madre usa como agente leudante la masa madre misma, no necesita c
 Vamos a hacer una masa madre de trigo. Lo mejor es usar harina integral, porque esta harina es producto de la molienda del grano de trigo y también de su cáscara. Tiene muchos más microorganismos que la harina blanca (sólo compuesta por la molienda del grano), y va a fermentar más fácil. Sin embargo, la harina integral de trigo podría no alcanzar para iniciar de cero una masa madre. Para darle una ayudita extra usaremos harina integral de centeno en las primeras etapas.
 
 Entonces, para empezar, vas a necesitar:
+![materiales](/assets/images/posts/DSC_0961.JPG)
 
 - 25 gramos de harina integral.
 - 25 gramos de harina integral de centeno.
@@ -94,4 +95,4 @@ Ya tenés la herramienta base para empezar a cocinar pan de masa madre! Quedáte
 # ¡Quiero una YA!
 {: #manija2 }
 
-Si estás entusiasmado, no te animás a empezar de cero, pero tenés ganas de cocinar ya, escribinos <a href="mailto:proyecto.iterum@gmail.com" rel="nofollow noopener noreferrer"><i class="fa fa-envelope" aria-hidden="true"></i></a> <a href="https://www.instagram.com/proyecto.iterum/" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i></a> que te convidamos un poco de nuestra masa madre. Cuando le agarres la mano, animate y hacé una, que es re satisfactorio cuando te sale.
+Si te entusiasmaste, no te animás a empezar de cero, pero tenés ganas de cocinar ya, escribinos <a href="mailto:proyecto.iterum@gmail.com" rel="nofollow noopener noreferrer"><i class="fa fa-envelope" aria-hidden="true"></i></a> <a href="https://www.instagram.com/proyecto.iterum/" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i></a> que te convidamos un poco de nuestra masa madre. Cuando le agarres la mano, animate y hacé una, que es re satisfactorio cuando te sale.
