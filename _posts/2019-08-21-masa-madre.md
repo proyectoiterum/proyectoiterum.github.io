@@ -37,8 +37,6 @@ El pan de masa madre usa como agente leudante la masa madre misma, no necesita c
 
 {% include warning.html content="Esto requiere tanto tiempo como paciencia. Si estás con ganas de empezar a cocinar ya, te sugerimos [conseguir una masa madre madura](#manija2), y al mismo tiempo hacerte una vos." %}
 
-![frascos](/assets/images/posts/masa_madre_y_mano.jpg)
-
 Vamos a hacer una masa madre de trigo. Lo mejor es usar harina integral, porque esta harina es producto de la molienda del grano de trigo y también de su cáscara. Tiene muchos más microorganismos que la harina blanca (sólo compuesta por la molienda del grano), y va a fermentar más fácil. Sin embargo, la harina integral de trigo podría no alcanzar para iniciar de cero una masa madre. Para darle una ayudita extra usaremos harina integral de centeno en las primeras etapas.
 
 Entonces, para empezar, vas a necesitar:
@@ -70,6 +68,7 @@ _**Día 4, 5 y 6**_ - Comienzan las alimentaciones. Se hacen cada 12 horas, 2 po
 _**Día 7**_ (o cuando haya duplicado el volumen) - Lo lograste! Ya la madurez es tal que puede hacerse pan con esta masa, pero cuanto más días se repitan las alimentaciones, más fuerza va a tener.
 
 ## Mantenimiento
+![frascos](/assets/images/posts/masa_madre_y_mano.jpg)
 
 Cuando hablamos de microbios, hablamos de vida, por lo que se la debe cuidar como si fuera una mascota. Se la debe alimentar periódicamente, y la forma en la que se haga va a tener impacto en el desarrollo de este cultivo. Siempre se toma una porción de la masa madre, descartando el resto, y agregando agua y harina fresca. Una vez que tengamos una masa madre madura, ya se puede ir jugando con proporciones y tipos de harina para luego hacer distintos panes. Por ejemplo, nosotros tenemos dos frascos, uno que se alimenta con harina integral de trigo 000 (100%), y otra con harina de trigo blanca 000 (90%) y harina integral de centeno (10%).
 
