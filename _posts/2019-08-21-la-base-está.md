@@ -14,9 +14,9 @@ category: Recetas
 | Harinal integral 0000 Mayal | 75g | 20% |
 | Masa Madre | 97.5g | 30% |
 | Agua | 233g | 71.69% |
-| Agua | 8g | 2.46% |
+| Sal | 8g | 2.46% |
 
 
 ## Procedimiento
 
-{% include danger.html content="**En proceso!:** Cuando tengamos fotos para darle detalle a la explicación vamos a completar esta sección." %}
+{% include danger.html content="**En proceso!:** En breve tendremos el paso a paso para que puedas hacer tu primer pan." %}
