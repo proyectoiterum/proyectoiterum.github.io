@@ -1,7 +1,11 @@
 ---
 layout: single
+excerpt_separator: <!--more-->
 category: Fundamentos 
 ---
+_Todo lo que quisiste saber sobre masa madre pero nunca te animaste a preguntar_
+<!--more-->
+#### &nbsp;
 
 ![pan sin cortar](/assets/images/posts/sabado_28-082.jpg)
 
@@ -35,7 +39,7 @@ El pan de masa madre usa como agente leudante la masa madre misma, no necesita c
 # ¿Cómo hacer tu propia masa madre?
 {: #manija1 }
 
-{% include warning.html content="Esto requiere tanto tiempo como paciencia. Si estás con ganas de empezar a cocinar ya, te sugerimos [conseguir una masa madre madura](#manija2), y al mismo tiempo hacerte una vos." %}
+{% include warning.html content="**Ojo!:** Esto requiere tanto tiempo como paciencia. Si estás con ganas de empezar a cocinar ya, te sugerimos [conseguir una masa madre madura](#manija2), y al mismo tiempo hacerte una vos." %}
 
 Vamos a hacer una masa madre de trigo. Lo mejor es usar harina integral, porque esta harina es producto de la molienda del grano de trigo y también de su cáscara. Tiene muchos más microorganismos que la harina blanca (sólo compuesta por la molienda del grano), y va a fermentar más fácil. Sin embargo, la harina integral de trigo podría no alcanzar para iniciar de cero una masa madre. Para darle una ayudita extra usaremos harina integral de centeno en las primeras etapas.
 
