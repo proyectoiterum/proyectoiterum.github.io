@@ -1,5 +1,6 @@
 ---
 layout: single
+title: La base está
 excerpt_separator: <!--more-->
 category: Recetas
 ---
