@@ -160,6 +160,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - /.well-known/pki-validation/B68AF40B7AABD6E61270AB9CEAA707E4.txt
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -222,7 +223,6 @@ permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-permalink: /.well-known/pki-validation/B68AF40B7AABD6E61270AB9CEAA707E4.txt
 
 # Plugins (previously gems:)
 plugins:
